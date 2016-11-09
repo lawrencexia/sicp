@@ -12,3 +12,9 @@ b
 16
 6
 16
+
+Exercise 1.4:
+Sweet. Returns a add or subtract operator based off of the value of b
+
+Exercise 1.5:
+Ask question about this. Normal Order Evaluation would not eval (p) which calls itself? Or would it expand the whole way first which would infinitely expand (p)?
